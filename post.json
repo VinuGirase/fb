@@ -1,0 +1,52 @@
+[
+  {
+    "image": "profile.jpg",
+    "user_name": "JohnDoe123",
+    "date_time": "Nov 04 2023, 15:42 pm",
+    "description": "Just had an amazing weekend getaway! 🌴🌞 #WeekendVibes",
+    "like": 123,
+    "comment": 42,
+    "share": 17,
+    "post_image": "tiger3.jpg"
+  },
+  {
+    "image": "profile.jpg",
+    "user_name": "SocialMediaGuru",
+    "date_time": "Nov 03 2023, 12:30 pm",
+    "description": "Sharing some social media tips and tricks. Check it out! #SocialMediaMarketing",
+    "like": 456,
+    "comment": 78,
+    "share": 32,
+    "post_image": "tiger3.jpg"
+  },
+  {
+    "image": "profile.jpg",
+    "user_name": "TravelBug123",
+    "date_time": "Nov 02 2023, 09:15 am",
+    "description": "Exploring beautiful landscapes in Europe. 🏞️ #TravelDiaries",
+    "like": 789,
+    "comment": 93,
+    "share": 58,
+    "post_image": "tiger3.jpg"
+  },
+  {
+    "image": "profile.jpg",
+    "user_name": "FoodieAdventures",
+    "date_time": "Nov 01 2023, 18:20 pm",
+    "description": "Tried the most delicious pasta today. 🍝 #FoodieAdventures",
+    "like": 345,
+    "comment": 62,
+    "share": 24,
+    "post_image": "tiger3.jpg"
+  },
+  {
+    "image": "profile.jpg",
+    "user_name": "FitnessFanatic",
+    "date_time": "Oct 31 2023, 17:10 pm",
+    "description": "Morning workout to start the day right. 💪 #FitnessGoals",
+    "like": 567,
+    "comment": 71,
+    "share": 29,
+    "post_image": "tiger3.jpg"
+  }
+]
